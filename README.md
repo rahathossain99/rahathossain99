@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlNHBrdmdkZXkycHJrYjJ4dHJsb2llNWx3MWtrY3c0bjh5YTR1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif
+  <img src="">
+</div>
+
 <!--
 **rahathossain99/rahathossain99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
